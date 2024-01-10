@@ -14,12 +14,13 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: JiHongKim98 # the main title
 
-tagline: 일단 박죠 # it will display as the sub-title
+tagline: 👋🏻 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  # The Story of my Dev with Python! 🤪
+  Sharing my personal journey in development with Python.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://JiHongKim98.github.io', note that it does not end with a '/'.
@@ -39,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #  - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/JiHongKim98 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

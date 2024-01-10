@@ -1,7 +1,7 @@
 ---
 title: 게시글 실험용 kimjihong 입니다
-author: JiHongKim98
-date: 2019-08-11 00:34:00 +0800
+author: me
+date: 2019-08-11 00:34:00 +0000
 categories: [test-categories]
 tags: [test, python, fastapi]
 ---
