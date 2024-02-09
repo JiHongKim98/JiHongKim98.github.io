@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: ko-KR
+lang: en  # ko-KR
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Seoul
@@ -19,8 +19,8 @@ title: JiHongKim98 # the main title
 tagline: 👋🏻 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  # The Story of my Dev with Python! 🤪
-  Sharing my personal journey in development with Python.
+  # The Story of my Dev with Python and Java! 🤪
+  Sharing my personal journey in development with Python and Java.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://JiHongKim98.github.io', note that it does not end with a '/'.
@@ -35,7 +35,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 김지홍
+  name: JiHongKim98
   email: JiHongKim98@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -47,8 +47,8 @@ social:
 
 
 # SEO
-google_site_verification: 5Uhc5KUu331zreT92JhqU1lwaWEEVBfRofUAzoRiB5Q
-naver-site-verification: 8c45180b273d0cf31f892b68e09a7c640b85f823 
+google_site_verification: 5Uhc5KUu331zreT92JhqU1lwaWEEVBfRofUAzoRiB5Q  # Google SEO
+naver-site-verification: 8c45180b273d0cf31f892b68e09a7c640b85f823  # Naver SEO
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -97,10 +97,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: JiHongKim98/JiHongKim98.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOLDRSqg
+    category: Comments
+    category_id: DIC_kwDOLDRSqs4CdFF5
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
